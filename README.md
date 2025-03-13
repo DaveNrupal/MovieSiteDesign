@@ -24,6 +24,7 @@ Displays movie information
 Easy navigation and user-friendly interface
 
 Future Enhancements
+
 Add JavaScript for dynamic content loading
 Integrate a movie API for real-time data
 Include user reviews and ratings
